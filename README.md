@@ -36,7 +36,7 @@ project-root/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/aneeshsunganahalli/ProjectSunga.git
+git clone https://github.com/GrandStar363/ProjectSunga.git
 cd your-project-name
 ```
 
